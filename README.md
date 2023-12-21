@@ -11,21 +11,21 @@ Este proyecto es un sistema de votación desarrollado en PHP y jQuery. Permite a
         |-- js/
             |-- jquery-3.7.1.min.js
             |-- jquery.validate.js
-            |-- scripts.js            
+            |-- scripts.js
     |-- inc/
         |-- conexion.php
-        |-- credenciales.php  
-        |-- funciones.php          
+        |-- credenciales.php
+        |-- funciones.php   
     |-- public/
         |-- formulario_votacion.php
     |-- sql/
         |-- backup.sql
     |-- templates/
-        |-- footer.php  
+        |-- footer.php
         |-- header.php
     |-- doc.pdf
-    |-- index.php     
-    |-- LEEME.php        
+    |-- index.php
+    |-- LEEME.php
 
 
 ## Requisitos del Sistema
