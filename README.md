@@ -5,26 +5,47 @@ Este proyecto es un sistema de votación desarrollado en PHP y jQuery. Permite a
 # Estructura de archivos
 
 |-- test_php/
+
     |-- assets/
+    
         |-- css/
+        
             |-- estilos.css
+            
         |-- js/
+        
             |-- jquery-3.7.1.min.js
+            
             |-- jquery.validate.js
+            
             |-- scripts.js
+            
     |-- inc/
+    
         |-- conexion.php
+        
         |-- credenciales.php
+        
         |-- funciones.php   
+        
     |-- public/
+    
         |-- formulario_votacion.php
+        
     |-- sql/
+    
         |-- backup.sql
+        
     |-- templates/
+    
         |-- footer.php
+        
         |-- header.php
+        
     |-- doc.pdf
+    
     |-- index.php
+    
     |-- LEEME.php
 
 
